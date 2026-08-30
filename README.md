@@ -1,0 +1,2 @@
+# generate-msixassets
+generate-msixassets
