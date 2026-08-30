@@ -3,10 +3,10 @@
 # Export-MSIXAssets
 # github.com/andrewmichaelpowell
 
-set -euo pipefail
-
 # brew install ghostscript
 # brew install imagemagick
+
+set -euo pipefail
 
 MASTER_IMAGE="./Resources/Icon.png"
 OUTPUT_DIR="./Packages/Assets"
