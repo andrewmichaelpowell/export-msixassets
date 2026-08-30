@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# generate-msixassets.sh
+# Export-MSIXAssets
 # github.com/andrewmichaelpowell
 
 set -euo pipefail
